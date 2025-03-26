@@ -1,5 +1,15 @@
-# Hello-World
+# <Nome do Projeto>
 
-## Fist Commit
 
-### Turma MSI
+Pesquise e explore a syntax da linguagem MarkDown para estruturar o seu Read ME
+
+
+## <Missão>
+
+
+
+## <Visão>
+
+
+
+## <Valores>

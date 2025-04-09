@@ -19,6 +19,7 @@ Liste os valores do time/projeto:
 ---
 
 ## 🎯 OKRs (Objectives and Key Results)
+Período de 6 meses
 
 ### Objetivo 1: [Ex: Aumentar o engajamento dos usuários]
 - KR1: Atingir 100 usuários ativos no primeiro mês
